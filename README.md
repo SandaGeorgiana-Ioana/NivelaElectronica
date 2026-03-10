@@ -1,1 +1,1 @@
-https://github.com/SandaGeorgiana-Ioana/Nivel-Electronic-/blob/main/NivelaElectronica.mp4
+<video src="NivelaElectronica.mp4" controls width="600"></video>
