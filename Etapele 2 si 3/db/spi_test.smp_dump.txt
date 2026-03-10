@@ -1,0 +1,10 @@
+
+State Machine - |spi_test|req_ack_drv:i_req_ack_drv|stare
+Name stare.BUFFER stare.REQ_Y stare.REQ_X stare.REQ_POWER_CTL stare.REQ_DATA_FORMAT stare.REQ_STARTUP stare.IDLE 
+stare.IDLE 0 0 0 0 0 0 0 
+stare.REQ_STARTUP 0 0 0 0 0 1 1 
+stare.REQ_DATA_FORMAT 0 0 0 0 1 0 1 
+stare.REQ_POWER_CTL 0 0 0 1 0 0 1 
+stare.REQ_X 0 0 1 0 0 0 1 
+stare.REQ_Y 0 1 0 0 0 0 1 
+stare.BUFFER 1 0 0 0 0 0 1 

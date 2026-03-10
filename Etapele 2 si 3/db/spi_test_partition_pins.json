@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "seg7_pins[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[8]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[9]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[10]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[11]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[12]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[13]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[14]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[16]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[17]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[18]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[19]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[20]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[21]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[22]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[24]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[25]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[26]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[27]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[28]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[29]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[30]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[32]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[33]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[34]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[35]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[36]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[37]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[38]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[40]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[41]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[42]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[43]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[44]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[45]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7_pins[46]",
+					"strict" : false
+				},
+				{
+					"name" : "spi_cs_no",
+					"strict" : false
+				},
+				{
+					"name" : "spi_clk_o",
+					"strict" : false
+				},
+				{
+					"name" : "spi_data_o",
+					"strict" : false
+				},
+				{
+					"name" : "spi_data_i",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
